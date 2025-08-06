@@ -1,0 +1,22 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+
+# Data files
+*.csv
+*.xlsx
+test_data.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
